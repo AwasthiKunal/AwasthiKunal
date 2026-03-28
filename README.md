@@ -1,15 +1,62 @@
-# 💫 About Me:
-My name is Kunal Awasthi, and I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Lovely Professional University. I have a strong foundation in Python, SQL, and web development using Django, along with experience in data analysis and machine learning. I enjoy solving problems and building practical, scalable solutions, and I am comfortable working with tools and libraries like Pandas, NumPy, Scikit-learn, MySQL, Power BI, and Git. <br>I have worked on impactful projects such as a multi-vendor restaurant e-commerce platform and an end-to-end AutoML system, where I handled both backend development and user-focused features. Along with my technical skills, I bring strong analytical thinking and communication abilities, demonstrated through solving 150+ coding problems and winning a national-level debate competition. I aim to continuously grow as a developer while contributing effectively to real-world projects.
+<h1 align="center">Kunal Awasthi</h1>
+<h3 align="center">Backend Developer | Data & ML Enthusiast</h3>
 
+<p align="center">
+🚀 Building scalable backend systems & data-driven solutions  
+💡 Focused on Django, APIs, and Machine Learning  
+🏆 National-Level Debate Winner | 250+ DSA Problems Solved  
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AwasthiKunal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AwasthiKunal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AwasthiKunal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<a href="http://www.linkedin.com/in/kunal-awasthi029">LinkedIn</a> •
+<a href="mailto:kunalawasthi029@gmail.com">Email</a> •
+<a href="https://github.com/AwasthiKunal">GitHub</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AwasthiKunal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+I am a Computer Science undergraduate at Lovely Professional University with a strong interest in backend development and data-driven systems. I enjoy building practical applications that solve real-world problems and focus on writing clean, scalable code.
+
+My experience includes developing full-stack applications using Django and working on machine learning pipelines and data analytics solutions. I am particularly interested in backend architecture, system design, and leveraging data to build intelligent systems.
+
+---
+
+## ⚡ What I Focus On
+- Backend Development (Django, REST APIs, scalable systems)  
+- Data Analysis & Machine Learning  
+- Writing clean, efficient, and maintainable code  
+- Problem solving through Data Structures & Algorithms  
+
+---
+
+## 🧠 Technical Skills
+**Languages:** Python, SQL  
+**Frameworks:** Django, Django REST Framework  
+**Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib  
+**Tools:** Git, GitHub, Power BI, Excel  
+**Database:** MySQL  
+
+---
+
+## 📊 GitHub Insights
+![](https://github-readme-stats.vercel.app/api?username=AwasthiKunal&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AwasthiKunal&theme=dark&hide_border=true)
+
+---
+
+## 🏆 Achievements
+- Solved 250+ problems on LeetCode & GFG  
+- 5⭐ on HackerRank (Problem Solving)  
+- Winner – National-Level Debate Competition  
+
+---
+
+## 📌 Current Direction
+- Learning System Design & backend scalability  
+- Exploring FastAPI and modern backend patterns  
+- Strengthening DSA for technical interviews  
+
+---
+
+⭐ *Focused on growth, consistency, and building impactful systems*
