@@ -1,11 +1,5 @@
 <h1 align="center">Kunal Awasthi</h1>
-<h3 align="center">Backend Developer | Data & ML Enthusiast</h3>
-
-<p align="center">
-🚀 Building scalable backend systems & data-driven solutions  
-💡 Focused on Django, APIs, and Machine Learning  
-🏆 National-Level Debate Winner | 250+ DSA Problems Solved  
-</p>
+<h3 align="center">Backend Developer | Data & Machine Learning</h3>
 
 <p align="center">
 <a href="http://www.linkedin.com/in/kunal-awasthi029">LinkedIn</a> •
@@ -15,48 +9,62 @@
 
 ---
 
-## 💫 About Me
-I am a Computer Science undergraduate at Lovely Professional University with a strong interest in backend development and data-driven systems. I enjoy building practical applications that solve real-world problems and focus on writing clean, scalable code.
+## About
+I am a Computer Science undergraduate at Lovely Professional University with a strong focus on backend development and data-driven systems. I build practical applications that solve real-world problems and emphasize clean, scalable architecture.
 
-My experience includes developing full-stack applications using Django and working on machine learning pipelines and data analytics solutions. I am particularly interested in backend architecture, system design, and leveraging data to build intelligent systems.
+My experience includes developing backend systems using Django and working with machine learning pipelines and data analytics solutions. I am particularly interested in system design, backend architecture, and building efficient, maintainable software.
 
 ---
 
-## ⚡ What I Focus On
+## Focus Areas
 - Backend Development (Django, REST APIs, scalable systems)  
-- Data Analysis & Machine Learning  
-- Writing clean, efficient, and maintainable code  
-- Problem solving through Data Structures & Algorithms  
+- Data Analysis and Machine Learning  
+- System Design and Backend Architecture  
+- Problem Solving using Data Structures and Algorithms  
 
 ---
 
-## 🧠 Technical Skills
-**Languages:** Python, SQL  
-**Frameworks:** Django, Django REST Framework  
-**Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib  
-**Tools:** Git, GitHub, Power BI, Excel  
-**Database:** MySQL  
+## Technical Skills
+
+**Languages**  
+Python, SQL, C, C++
+
+**Frameworks**  
+Django, Django REST Framework
+
+**Data & Machine Learning**  
+Pandas, NumPy, Scikit-learn, Matplotlib
+
+**Tools & Technologies**  
+Git, GitHub, Power BI, Excel
+
+**Database**  
+MySQL
 
 ---
 
-## 📊 GitHub Insights
-![](https://github-readme-stats.vercel.app/api?username=AwasthiKunal&theme=dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AwasthiKunal&theme=dark&hide_border=true)
+## GitHub Overview
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AwasthiKunal&show_icons=true&theme=default&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AwasthiKunal&theme=default&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🏆 Achievements
-- Solved 250+ problems on LeetCode & GFG  
-- 5⭐ on HackerRank (Problem Solving)  
-- Winner – National-Level Debate Competition  
+## Achievements
+- Solved 250+ problems on LeetCode and GFG  
+- 5-Star rating in Problem Solving on HackerRank  
+- Winner of a National-Level Debate Competition  
 
 ---
 
-## 📌 Current Direction
-- Learning System Design & backend scalability  
-- Exploring FastAPI and modern backend patterns  
-- Strengthening DSA for technical interviews  
+## Current Direction
+- Studying system design and backend scalability  
+- Exploring modern backend frameworks and architecture patterns  
+- Strengthening problem-solving for technical interviews  
 
 ---
 
-⭐ *Focused on growth, consistency, and building impactful systems*
+<p align="center">
+Focused on building reliable systems and continuously improving as a developer
+</p>
