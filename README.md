@@ -1,70 +1,85 @@
-<h1 align="center">Kunal Awasthi</h1>
-<h3 align="center">Backend Developer | Data & Machine Learning</h3>
+<h1 align="center">Hi 👋, I'm Kunal Awasthi</h1>
+<h3 align="center">Backend Developer | Data & ML Enthusiast</h3>
 
 <p align="center">
-<a href="http://www.linkedin.com/in/kunal-awasthi029">LinkedIn</a> •
-<a href="mailto:kunalawasthi029@gmail.com">Email</a> •
-<a href="https://github.com/AwasthiKunal">GitHub</a>
+<img src="https://komarev.com/ghpvc/?username=AwasthiKunal&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+<a href="http://www.linkedin.com/in/kunal-awasthi029">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:kunalawasthi029@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://github.com/AwasthiKunal">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
 </p>
 
 ---
 
-## About
-I am a Computer Science undergraduate at Lovely Professional University with a strong focus on backend development and data-driven systems. I build practical applications that solve real-world problems and emphasize clean, scalable architecture.
+## 💫 About Me
+I am a Computer Science undergraduate at **Lovely Professional University** with a strong focus on backend development and data-driven systems.  
+I enjoy building real-world applications and writing clean, scalable code.
 
-My experience includes developing backend systems using Django and working with machine learning pipelines and data analytics solutions. I am particularly interested in system design, backend architecture, and building efficient, maintainable software.
-
----
-
-## Focus Areas
-- Backend Development (Django, REST APIs, scalable systems)  
-- Data Analysis and Machine Learning  
-- System Design and Backend Architecture  
-- Problem Solving using Data Structures and Algorithms  
+- 🚀 Backend Developer (Django, REST APIs, SQL)
+- 📊 Data Analysis & Machine Learning Enthusiast  
+- 🧠 Strong in DSA (250+ problems solved)  
+- 🏆 National-Level Debate Winner  
 
 ---
 
-## Technical Skills
-
-**Languages**  
-Python, SQL, C, C++
-
-**Frameworks**  
-Django, Django REST Framework
-
-**Data & Machine Learning**  
-Pandas, NumPy, Scikit-learn, Matplotlib
-
-**Tools & Technologies**  
-Git, GitHub, Power BI, Excel
-
-**Database**  
-MySQL
+## ⚡ What I Focus On
+- Backend Development & API Design  
+- Scalable System Thinking  
+- Data-Driven Applications  
+- Clean Code & Problem Solving  
 
 ---
 
-## GitHub Overview
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AwasthiKunal&show_icons=true&theme=default&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AwasthiKunal&theme=default&hide_border=true" height="150"/>
+## 🛠️ Tech Stack
+
+### 💻 Languages & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,django,fastapi" />
+</p>
+
+### 📊 Data & ML
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github" />
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
 
-## Achievements
-- Solved 250+ problems on LeetCode and GFG  
-- 5-Star rating in Problem Solving on HackerRank  
-- Winner of a National-Level Debate Competition  
+## 📊 GitHub Insights
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AwasthiKunal&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AwasthiKunal&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## Current Direction
-- Studying system design and backend scalability  
-- Exploring modern backend frameworks and architecture patterns  
-- Strengthening problem-solving for technical interviews  
+## 🏆 Achievements
+- 🧠 Solved **250+ problems** (LeetCode + GFG)  
+- ⭐ **5-Star** on HackerRank (Problem Solving)  
+- 🏆 Winner – National-Level Debate Competition  
+
+---
+
+## 📌 Current Direction
+- 📚 Learning System Design & Backend Scalability  
+- ⚡ Exploring FastAPI & modern architectures  
+- 🎯 Preparing for technical interviews  
 
 ---
 
 <p align="center">
-Focused on building reliable systems and continuously improving as a developer
+✨ <i>Focused on building impactful backend systems and growing consistently</i>
 </p>
